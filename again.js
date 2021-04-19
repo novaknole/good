@@ -16,7 +16,7 @@ let print_all_sum_rec = function(target, current_sum, start, result, output) {
     }
 };
 
-//ffffflkk
+//ffffflkk22222212
 let print_all_sum = function(target) {
     let output = [];
     let result = [];
