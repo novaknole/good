@@ -12,7 +12,7 @@ function subsetSum(numbers, target, partial) {
         subsetSum(numbers, target, partial.concat([n]));
     }
 }
-
+//nice
 
 
 var permArr = [];
